@@ -1,0 +1,14 @@
+ # Flutter/Dart related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugin-dependencies
+android/app/build/
+ios/Flutter/App.framework/
+build/
+
+# General
+.DS_Store
+.idea/
+*.iml
+*.log
